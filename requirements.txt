@@ -1,0 +1,6 @@
+opencv-python
+pyserial
+keyboard
+cvzone
+SpeechRecognition
+PyAudio
